@@ -1,7 +1,7 @@
 # Users-add-update-delete-list
 
 ## Project Description
-A simple list conatining user names that are fetched from https://jsonplaceholder.typicode.com. The list contains features to add, update and delete users. 
+A simple list conatining user names that are fetched from https://jsonplaceholder.typicode.com. The list contains features to add, update and delete users. Built in react.
 
 ## Installation
 1. Clone the repository.
